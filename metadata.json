@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Care4U - Student Health Support",
+  "description": "A student-focused health platform providing symptom guidance for common illnesses and real-time medical chat support, inspired by the Care4U keychain.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
